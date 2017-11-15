@@ -9,6 +9,10 @@ public class Car {
     private String interior;
     private String brand;
 
+    public Car(){
+
+    }
+
     public Car(String mBrand,String mColor , String mInterior){
         brand=mBrand;
         color=mColor;
@@ -41,4 +45,6 @@ public class Car {
     public void setBrand(String brand) {
         this.brand = brand;
     }
+
+
 }

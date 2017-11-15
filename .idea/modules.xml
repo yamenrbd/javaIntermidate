@@ -3,8 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaIntermidate.iml" filepath="$PROJECT_DIR$/javaIntermidate.iml" />
       <module fileurl="file://$PROJECT_DIR$/javaPractice/javaPractice.iml" filepath="$PROJECT_DIR$/javaPractice/javaPractice.iml" />
-      <module fileurl="file://$PROJECT_DIR$/javaintermidate.iml" filepath="$PROJECT_DIR$/javaintermidate.iml" />
     </modules>
   </component>
 </project>

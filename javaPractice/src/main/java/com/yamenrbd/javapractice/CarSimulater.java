@@ -9,5 +9,12 @@ public class CarSimulater {
         myCar.setColor("blue");
         System.out.println("but i got paint job and change my car color to "+myCar.getColor());
         myCar.drive();
+
+        SelfDrivingCar autoBoot = new SelfDrivingCar("google","yellow","plastic");
+        System.out.println(autoBoot.getColor());
+        autoBoot.drive();
+        autoBoot.drive();
+
+
     }
 }
